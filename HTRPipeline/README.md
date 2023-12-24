@@ -1,6 +1,6 @@
-We are Team number 3!/n
-Belih Dmitrii/n
-Moraru Patricia/n
-Popescu Sabina/n
-Vitcovschii Vladimir/n 
-Plesca Denis/n
+We are Team number 3!
+Belih Dmitrii
+Moraru Patricia
+Popescu Sabina
+Vitcovschii Vladimir 
+Plesca Denis
